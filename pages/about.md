@@ -5,33 +5,30 @@ permalink: "/about/"
 image: assets/images/about-us.jpg
 ---
 
-Bienvenue sur **Horaires Bus** — votre portail en ligne dédié aux itinéraires et horaires des bus en France.
+Welcome to **Biggest in France** – your go-to destination for discovering the biggest, boldest, and most fascinating things across France!
 
-## Notre Mission
+Whether you're curious about the largest castles, widest rivers, tallest mountains, biggest supermarkets, or even the most expansive vineyards, we've got you covered. We rank and present everything — from monumental architecture to quirky records — in a simple, easy-to-browse format: **from the biggest to the smallest**.
 
-Chez **Horaires Bus**, notre objectif est clair : offrir une plateforme accessible, rapide et conviviale pour consulter les horaires des bus dans toutes les régions de France. Nous sommes convaincus que l'accès à l'information sur les transports publics est essentiel pour une mobilité fluide et inclusive.
+## Who We Are
+We are a team of Francophiles, researchers, and digital creators passionate about exploring the vast and varied landscape of France. With backgrounds in tourism, geography, and digital media, we bring accuracy, creativity, and clarity to every piece of content we publish.
 
-## Ce que Nous Proposons
+## Our Mission
+At *Biggest in France*, our mission is to educate, entertain, and inspire curiosity about France's grandest landmarks, structures, institutions, and achievements. By organizing content based on size, scale, and impact, we offer a unique perspective on French culture, geography, infrastructure, and lifestyle.
 
-- Horaires à jour pour les lignes de bus régionales et urbaines
-- Itinéraires détaillés avec correspondances possibles
-- Informations sur les arrêts les plus proches
-- Mise à jour continue des données pour garantir leur fiabilité
+## Why We Started
+France is a country of superlatives — the biggest museum in the world, the tallest bridge in Europe, and so much more. Yet, information about these records is often scattered or hard to verify. We created this platform to gather and verify this data in one place, making it accessible and fun for everyone — from curious travelers and trivia lovers to researchers and students.
 
-## Nos Engagements
+## What You'll Find Here
 
-- Interface simple et adaptée à tous les appareils
-- Accès libre et sans inscription
-- Mise en valeur des lignes locales parfois négligées par d'autres services
-- Une plateforme pensée entièrement pour les usagers francophones
-
-## Nous Contacter
-
-Vous avez une suggestion, une erreur à signaler ou une idée à partager ? N'hésitez pas à nous écrire.
-
-Email : `contact@horairesbus.github.io`  
-Site web : [horairesbus.github.io](https://horairesbus.github.io)
+- **Ranked Lists**: Explore comprehensive lists sorted by size — whether it's regions, landmarks, or French brands.
+- **Interactive Guides**: Discover maps and visuals that show where the biggest things are located.
+- **Fun Facts**: Learn surprising trivia about France’s largest and smallest features.
+- **Articles & Features**: In-depth explorations of France’s most impressive records.
 
 ---
 
-Merci de votre confiance. L'équipe **Horaires Bus**
+## Join the Exploration
+Whether you're planning a trip, writing a school paper, or just love lists — **Biggest in France** is here to take you on a journey through the country's most impressive extremes.
+
+Stay curious,  
+**The Biggest in France Team**
